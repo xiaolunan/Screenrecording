@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Screen recording</string>
+    <string name="start_record">Start recording screen</string>
+    <string name="stop_record">Stop the screen</string>
+    <string name="prompt">The screen recording is saved in the root directory of the ScreenRecord (app automatically created) folder</string>
+    <string name="screen">Screen</string>
+</resources>

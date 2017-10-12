@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/big_window_layout"
+	android:layout_width="200dip"
+	android:layout_height="140dip"
+	android:background="@drawable/bg_big"
+	android:orientation="vertical"
+    >
+
+	<Button
+		android:id="@+id/start"
+		android:layout_width="100dip"
+		android:layout_height="40dip"
+		android:layout_marginTop="5dp"
+		android:layout_gravity="center_horizontal"
+		android:background="@drawable/button_bg"
+		android:text="保存录屏"
+		android:textColor="@android:color/white"
+		/>
+
+    <Button 
+        android:id="@+id/back"
+        android:layout_width="100dip"
+        android:layout_height="40dip"
+		android:background="@drawable/button_bg"
+        android:layout_gravity="center_horizontal"
+		android:layout_marginTop="5dp"
+		android:layout_marginBottom="5dp"
+		android:textColor="@android:color/white"
+        android:text="返回"
+
+        />
+
+	<Button
+		android:id="@+id/close"
+		android:layout_width="100dip"
+		android:layout_height="40dip"
+		android:background="@drawable/button_bg"
+		android:layout_gravity="center_horizontal"
+		android:textColor="@android:color/white"
+		android:text="关闭悬浮窗"
+		/>
+</LinearLayout>

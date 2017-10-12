@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Grabación de pantalla</string>
+    <string name="start_record">Iniciar la pantalla de grabación</string>
+    <string name="stop_record">Detener la pantalla</string>
+    <string name="prompt">La grabación de pantalla se guarda en el directorio raíz de la carpeta ScreenRecord (aplicación creada automáticamente)</string>
+    <string name="screen">Pantalla</string>
+</resources>

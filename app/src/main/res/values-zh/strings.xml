@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">屏幕录制</string>
+    <string name="start_record">开始录屏</string>
+    <string name="stop_record">停止录屏</string>
+    <string name="prompt">屏幕录像保存在，根目录ScreenRecord(app自动创建)文件夹内</string>
+    <string name="screen">录屏</string>
+</resources>
